@@ -34,7 +34,7 @@ Antes da modelagem, foram identificados três pontos críticos:
 
 # Estrutura do repositório
 ```text
-  📁 ImageClassificationDL/               # Raiz do repositório
+  📁 Road-Surface-Classification/               # Raiz do repositório
   ├── 📂 dataset_voxar/                   # Diretório de dados
   │   ├── 📂 test/                        # Conjunto de teste
   │   │   ├── 📂 asphalt                  # Amostras de asfalto
@@ -69,12 +69,12 @@ Foram realizados experimentos fundamentados em hipóteses científicas:
 
 1. Clone o repositório
    ```bash
-   git clone https://github.com/arthlz/ImageClassificationDL.git
+   git clone https://github.com/arthlz/Road-Surface-Classification.git
    ```
    
 2. Acesse a pasta do projeto
    ```pasta
-   cd ImageClassificationDL-CV
+   cd Road-Surface-Classification
    ```
 
 3. Baixe a pasta "dataset" presente no link
