@@ -60,7 +60,7 @@ A solução utiliza **Transfer Learning** com arquiteturas consagradas pré-trei
   │       └── 📂 offroad                  # Amostras off-road
   ├── ⚙️ venv/                            # Ambiente virtual (ignorado pelo Git)
   ├── 📄 .gitignore                       # Filtro de arquivos do Git
-  ├── 📓 Desafio_IC_Voxar_Labs_2026.ipynb # Notebook principal
+  ├── 📓 codigo_full.ipynb # Notebook principal
   ├── 📖 README.md                        # Documentação do projeto
   └── 📋 requirements.txt                 # Dependências do Python
 ```
